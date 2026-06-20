@@ -1,0 +1,10 @@
+[2026-06-20 20:09:28] === MEMULAI RECON AUTOMATION ===
+[2026-06-20 20:09:28] Ditemukan 5 domain yang akan diproses.
+[2026-06-20 20:09:28] Memproses domain: tesla.com
+[2026-06-20 20:09:28]   → Menjalankan subfinder untuk tesla.com
+[2026-06-20 20:09:52]   → Menjalankan httpx untuk memfilter live hosts dari tesla.com
+[2026-06-20 20:12:57]   → Selesai untuk tesla.com
+[2026-06-20 20:12:57] Memproses domain: github.com
+[2026-06-20 20:12:57]   → Menjalankan subfinder untuk github.com
+[2026-06-20 20:13:25]   → Menjalankan httpx untuk memfilter live hosts dari github.com
+[2026-06-20 20:22:34] Script dihentikan. Membersihkan proses...
